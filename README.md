@@ -1,2 +1,8 @@
-# converter
-This is a simple converter app which can convert from one system to another system of measurement. eg from inches to feet, miles to km, etc
+# measurement-conversion
+Converting measurement project using PHP
+1. Length and Distance
+2. Area
+3. Volume and Capacity
+4. Weight and Mass
+5. Speed
+6. Temperature
